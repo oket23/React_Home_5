@@ -1,7 +1,5 @@
 # Vite + React + Tailwind
 
-# Vite + React + Tailwind
-
 ## What This Project Does
 
 This is a React application that renders two interactive components:
