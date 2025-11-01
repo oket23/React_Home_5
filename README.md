@@ -7,7 +7,6 @@ This is a React application that renders two interactive components:
 - **Task 1:** A "Timer" component. It allows users to start, pause, and reset a time counter. The display dynamically shows hours, minutes, and seconds.
 - **Task 2:** A "User List" component. It asynchronously fetches a list of users from an external API (`jsonplaceholder.typicode.com`) and displays each user as a separate `UserCard`. It also correctly handles loading and error states.
 
----
 
 ## Project Technologies
 
@@ -17,8 +16,6 @@ This is a React application that renders two interactive components:
 - **Styling:** TailwindCSS (configured with `@tailwindcss/vite`)
 - **Data Fetching:** Custom `useFetch` hook
 - **Linter:** ESLint (configured for TypeScript, React Hooks, and React Refresh)
-
----
 
 ## Key Project Strengths
 
